@@ -8,7 +8,8 @@ A software enthusiast exploring the intersections of creativity and technology ð
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-jk&layout=compact&theme=radical)
 
 ## Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ayush-jk&repo=1&commits=1&stars=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ayush-jk&repo=1&commits=1&stars=1&no=1)
+
 
 ## My Skills
 - **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
