@@ -19,4 +19,3 @@ I blend creativity with data science to tackle diverse challenges, from crafting
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/ayush-pathak-459aa5286/)
-
