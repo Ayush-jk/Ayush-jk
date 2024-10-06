@@ -7,14 +7,22 @@ A passionate software enthusiast with a love for blending creativity and technol
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-jk&layout=compact&theme=radical)
 
-## My Skills
-- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- **C** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-- **HTML** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-- **CSS** ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Data Analysis** ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-009B77?style=flat&logo=python&logoColor=white)
-- **Machine Learning** ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7DF1E?style=flat&logo=python&logoColor=black)
+## Tools and Technologies
+### Languages and Tools:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn" width="40" height="40"/>
+</p>
 
 ## Fun Fact
 I enjoy fusing creativity with data science to solve unique challenges—crafting interactive visualizations, building innovative analytics tools, or telling compelling data-driven stories.
