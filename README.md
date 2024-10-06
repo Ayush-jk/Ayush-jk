@@ -22,7 +22,9 @@ A passionate software enthusiast with a love for blending creativity and technol
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/>
 </p>
+
 ## Fun Fact
 I enjoy fusing creativity with data science to solve unique challenges—crafting interactive visualizations, building innovative analytics tools, or telling compelling data-driven stories.
+
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-pathak-459aa5286/)
