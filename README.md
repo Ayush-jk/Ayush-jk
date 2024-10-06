@@ -17,11 +17,11 @@ A passionate software enthusiast with a love for blending creativity and technol
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn" width="40" height="40"/>
+  <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
 </p>
 
 ## Fun Fact
